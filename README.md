@@ -71,5 +71,5 @@ This is a simplified example to demonstrate routing in a React application. It u
 ![Screenshot 3](/src/images/kontaktpage.png)
 ![Screenshot 4](/src/images/hausespage.png)
 ![Screenshot 5](/src/images/hausdetailedpage.png)
-![Screenshot 6](/src/images/about.png)
+![Screenshot 6](/src/images/aboutpage.png)
 
