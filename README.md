@@ -7,6 +7,9 @@ This is a sample React application that demonstrates routing using the `react-ro
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
 - [react-router-dom](https://reactrouter.com/web/guides/quick-start): A routing library for React applications.
 
+### Link,Navlink,RouteProvider,Outlet,Nested Route,Custom Error Page,Haus Listing,Loaders,Route Parameters,Loader with Parameter,Error Element,Form and Action,useActionData,Navigate, useSearchParams,useLocation,Breadcrumbs
+
+
 ## Project Structure
 
 The project is organized into different components and pages.
@@ -19,7 +22,6 @@ This is the entry point of the application. It renders the `App` component and p
 
 The `App` component sets up the routing for the application using the `createBrowserRouter` and `createRoutesFromElements` functions from `react-router-dom`. It defines routes for different sections of the app, such as the homepage, about page, help section, and the list of houses.
 
-## Link,Navlink,RouteProvider,Outlet,Nested Route,Custom Error Page,Haus Listing,Loaders,Route Parameters,Loader with Parameter,Error Element,Form and Action,useActionData,Navigate, useSearchParams,useLocation,Breadcrumbs
 
 ### `src/pages`
 
