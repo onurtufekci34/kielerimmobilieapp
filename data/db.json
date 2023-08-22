@@ -1,0 +1,40 @@
+
+{
+	"hauses": [
+	  {
+		"id": 1,
+		"name": "3+1 7.Etage",
+		"preis": 5000000,
+		"ort": "Plön",
+		"situation":"zu Verkaufen"
+	  },
+	  {
+		"id": 2,
+		"name": "2+1 4.Etage",
+		"preis": 5000,
+		"ort": "Schwentinental",
+		"situation":"zu Miete"
+	  },
+	  {
+		"id": 3,
+		"name": "3+1 1.Etage",
+		"preis": 2000000,
+		"ort": "Kiel",
+		"situation":"zu Verkaufen"
+	  },
+	  {
+		"id": 4,
+		"name": "1+0 1.Etage",
+		"preis": 3000,
+		"ort": "Laboe",
+		"situation":"zu Miete"
+	  },
+	  {
+		"id": 5,
+		"name": "3+1 3.Etage",
+		"preis": 1500000,
+		"ort": "Klausdorf",
+		"situation":"zu Verkaufen"
+	  }
+	]
+}
