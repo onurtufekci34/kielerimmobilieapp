@@ -160,3 +160,8 @@ form label span {
 .breadcrumbs .crumb a {
   color: #ddd;
 }
+
+.hausShow{
+  display: flex;
+  justify-content: space-between;
+}

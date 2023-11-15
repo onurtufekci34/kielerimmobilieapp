@@ -16,13 +16,19 @@ export const hausDetailedLoader = async ({ params }) => {
 
 export default function HausDetailed() {
   const haus = useLoaderData();
-
+  const style = {
+    width: '50%', 
+    height: '25rem' 
+  };
+  
   return (
     <div className="haus-detay">
       <h2>{haus.name}</h2>
       <p>Preis:{haus.preis}€</p>
       <p>Ort:{haus.ort}</p>
       <p>{haus.situation}</p>
+      <img style={style} src={haus.image} alt="haus"/>
+      
     </div>
   );
 }

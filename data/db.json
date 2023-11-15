@@ -6,35 +6,40 @@
 		"name": "3+1 7.Etage",
 		"preis": 5000000,
 		"ort": "Plön",
-		"situation":"zu Verkaufen"
+		"situation":"zu Verkaufen",
+		"image" :"https://assets-global.website-files.com/62c49b398fc0704149462b71/6544d0d3e8cd6d611495bed4_55m2-prefabrik-ev-1-cizgisiz.jpg"
 	  },
 	  {
 		"id": 2,
 		"name": "2+1 4.Etage",
 		"preis": 5000,
 		"ort": "Schwentinental",
-		"situation":"zu Miete"
+		"situation":"zu Miete",
+		"image":"https://assets-global.website-files.com/62c49b398fc0704149462b71/6528144cb0db29f8864a3a7c_50m2-prefabrik-ev-1-cizgisiz.jpg"
 	  },
 	  {
 		"id": 3,
 		"name": "3+1 1.Etage",
 		"preis": 2000000,
 		"ort": "Kiel",
-		"situation":"zu Verkaufen"
+		"situation":"zu Verkaufen",
+		"image":"https://assets-global.website-files.com/62c49b398fc0704149462b71/6528f07bc576df93df0beb5f_59m2-prefabrik-ev-1.jpg"
 	  },
 	  {
 		"id": 4,
 		"name": "1+0 1.Etage",
 		"preis": 3000,
 		"ort": "Laboe",
-		"situation":"zu Miete"
+		"situation":"zu Miete",
+		"image":"https://assets-global.website-files.com/62c49b398fc0704149462b71/6528f102a1361f6e1679e2fc_70m2-prefabrik-ev-1-cizgisiz.jpg"
 	  },
 	  {
 		"id": 5,
 		"name": "3+1 3.Etage",
 		"preis": 1500000,
 		"ort": "Klausdorf",
-		"situation":"zu Verkaufen"
+		"situation":"zu Verkaufen",
+		"image":"https://assets-global.website-files.com/62c49b398fc0704149462b71/65292b0d51b24004f7dec90d_81m2-prefabrik-ev-2-cizgisiz.jpg"
 	  }
 	]
 }

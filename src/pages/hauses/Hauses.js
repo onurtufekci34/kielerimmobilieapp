@@ -12,14 +12,25 @@ export const hausesLoader = async () => {
 
 export default function Hauses() {
   const hauses = useLoaderData();
+  const style = {
+    width: "100%",
+    height: "5rem",
+  };
 
   return (
     <div className="hauses">
       {hauses &&
         hauses.map((haus) => (
           <Link to={haus.id.toString()} key={haus.id}>
-            <p>{haus.name}</p>
-            <p>{haus.ort}</p>
+            <div className="hausShow">
+              <div>
+                <p>{haus.name}</p>
+                <p>{haus.ort}</p>
+              </div>
+              <div>
+                <img style={style} src={haus.image} alt={haus.name} />
+              </div>
+            </div>
           </Link>
         ))}
     </div>
