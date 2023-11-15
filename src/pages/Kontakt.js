@@ -10,7 +10,7 @@ export const kontaktAction = async ({ request }) => {
   };
 
   if (veri.mitteilung.length < 10) {
-    return { error: "Ihre Mitteilung muss mindestens 10 Bushtaben sein" };
+    return { error: "Ihre Mitteilung muss mindestens 10 Buschtaben sein" };
   }
 
   return redirect("/");

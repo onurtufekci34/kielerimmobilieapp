@@ -18,6 +18,8 @@ import RootLayout from "./layouts/RootLayout";
 import HelpLayout from "./layouts/HelpLayout";
 import HausLayout from "./layouts/HausLayout";
 
+
+
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<RootLayout />}>
@@ -45,6 +47,10 @@ const router = createBrowserRouter(
 );
 
 function App() {
+
+  
+
+
   return <RouterProvider router={router} />;
 }
 

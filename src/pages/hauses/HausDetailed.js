@@ -1,5 +1,6 @@
 import { useLoaderData } from "react-router-dom";
 
+
 export const hausDetailedLoader = async ({ params }) => {
   const { id } = params;
 
